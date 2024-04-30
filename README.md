@@ -27,9 +27,13 @@ We welcome contributions! If you have ideas for new features or improvements, pl
 ## Credits
 
 This project is from <a href="https://mcgi.org/frames/">MCGI Frames</a>
-.
+
+## Note
+NOTE: This code is for event purposes only. We do not want to use **Twibbonize** due to its _watermark_. All credits go to <a href="https://mcgi.org/">MCGI</a>.
+
+
 ## Contact
 
 For any inquiries or support, please email us at [iamdeibuu@gmail.com](mailto:iamdeibuu@gmail.com).
 
-Happy framing!
+Thanks be to God! and Happy framing!
