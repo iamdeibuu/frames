@@ -1,7 +1,7 @@
 # Picture Frame
 
 Welcome to our Picture Frame Website! Our platform offers a range of features to help you customize and enhance your images with ease.
-""This photo frame is used to promote events and other occasions on your social media pages.""
+This photo frame is used to promote events and other occasions on your social media pages.
 
 
 ## Features
