@@ -34,20 +34,6 @@ NOTE: This code is for event purposes only. We do not want to use **Twibbonize**
 
 ## Contact
 
-**MCGI CONTACT INFORMATION**
-
-<div class="links">
-<a href="m.me/MCGI.org">m.me/MCGI.orgk</a>
-<a href="viber://chat?number=+639432545390">Viber: +63 943 254 5390</a>
-<a href="tel:+639151897007">Globe: +63 915 189 7007</a></p>
-<a href="tel:+639184388988">Smart: +63 918 438 8988</a></p>
-<a href="tel:+639434118001">Sun: +63 943 411 8001</a></p>
-<a href="mailto:info@mcgi.org">Email: info@mcgi.org</a></p>
-<a href="skype:addcentral?chat">Skype: addcentral</a></p>
-
 For any inquiries or support, please email us at [iamdeibuu@gmail.com](mailto:iamdeibuu@gmail.com).
 
 Thanks be to God! and Happy framing!
-
-<p>Skype: <a href="skype:addcentral?cha?chat">Skype: addcentral</a></p>
-
