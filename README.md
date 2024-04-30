@@ -37,7 +37,7 @@ NOTE: This code is for event purposes only. We do not want to use **Twibbonize**
 **MCGI CONTACT INFORMATION**
 
 <div class="links">
-<a href="https://www.facebook.com">m.me/MCGI.orgk</a>
+<a href="m.me/MCGI.org">m.me/MCGI.orgk</a>
 <a href="viber://chat?number=+639432545390">Viber: +63 943 254 5390</a>
 <a href="tel:+639151897007">Globe: +63 915 189 7007</a></p>
 <a href="tel:+639184388988">Smart: +63 918 438 8988</a></p>
