@@ -6,10 +6,10 @@ This photo frame is used to promote events and other occasions on your social me
 
 ## Features
 
-##Image Controls: Adjust the vertical and horizontal position of your images.
-- **Resize:** Resize your images to fit perfectly within your selected frame.
-- **Rotate:** Rotate your images to achieve the desired orientation.
-- **Reset:** Reset your image adjustments to their original state.
+**Image Controls:**
+ - **Resize:** Resize your images to fit perfectly within your selected frame.
+ - **Rotate:** Rotate your images to achieve the desired orientation.
+ - **Reset:** Reset your image adjustments to their original state.
 
 ## How to Use
 
