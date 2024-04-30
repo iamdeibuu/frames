@@ -48,3 +48,18 @@ NOTE: This code is for event purposes only. We do not want to use **Twibbonize**
 For any inquiries or support, please email us at [iamdeibuu@gmail.com](mailto:iamdeibuu@gmail.com).
 
 Thanks be to God! and Happy framing!
+
+<div class="website-info">
+    <div class="logo">Your Logo</div>
+    <div class="name">Your Website Name</div>
+    <div class="description">Brief Description of Your Website</div>
+    <div class="contact-info">
+        <p>Email: <a href="mailto:info@example.com">info@example.com</a></p>
+        <p>Phone: <a href="tel:+123456789">+1 (234) 567-89</a></p>
+        <p>Skype: <a href="skype:your_skype_username?chat">Your Skype Username</a></p>
+    </div>
+    <div class="social-links">
+        <a href="https://www.facebook.com">Facebook</a>
+        <a href="viber://chat?number=+123456789">Viber</a>
+    </div>
+</div>
