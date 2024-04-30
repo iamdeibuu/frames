@@ -1,6 +1,8 @@
 # Picture Frame
 
 Welcome to our Picture Frame Website! Our platform offers a range of features to help you customize and enhance your images with ease.
+""This photo frame is used to promote events and other occasions on your social media pages.""
+
 
 ## Features
 
@@ -20,9 +22,10 @@ Welcome to our Picture Frame Website! Our platform offers a range of features to
 
 We welcome contributions! If you have ideas for new features or improvements, please submit a pull request.
 
-## License
+## Credits
 
-This project is from MCGI Frames.
+This project is from <a href="https://mcgi.org/frames/">MCGI Frames</a>
+.
 ## Contact
 
 For any inquiries or support, please email us at [iamdeibuu@gmail.com](mailto:iamdeibuu@gmail.com).
